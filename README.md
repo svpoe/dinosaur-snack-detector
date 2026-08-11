@@ -4,6 +4,8 @@ Feed the dinosaur objects in an open palm and it will walk towards you. It will 
 
 Works via  python computer vision pipeline that detects objects and hand gestures, then sends the result to Unity over UDP. 
 
+![Dinosaur Snack Detector demo](demo/dino-demo.gif)
+
 ## How it works
 
 1. **Python** captures webcam frames and runs two models in parallel:
