@@ -1,6 +1,6 @@
 # ECaurus
 
-Feed the dinosaur objects in an open palm and it will walk towards you. It will find the direction you are on the screen and move accordingly. 
+Feed the dinosaur objects in an open palm and it will walk towards you. It will find the direction you are in the camera view and move accordingly. 
 
 Works via  python computer vision pipeline that detects objects and hand gestures, then sends the result to Unity over UDP. 
 
