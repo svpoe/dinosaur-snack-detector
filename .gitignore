@@ -10,6 +10,7 @@ UserSettings/
 *.sln
 *.slnx
 
+InteractiveDinoPython_copy/ 
 InteractiveDinoPython/Settings.md
 env/
 ENV/
