@@ -1,0 +1,44 @@
+Töölönkatu.m4a
+
+# Unity generated
+Library/
+Temp/
+Logs/
+GeneratedAssets/
+UserSettings/
+*.csproj
+*.sln
+*.slnx
+
+InteractiveDinoPython/Settings.md
+env/
+ENV/
+
+# Conda
+.conda/
+conda-meta/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# My notes
+SETTING.md
+
+pygame-dino/
+
+InteractiveDinoPython/models/
