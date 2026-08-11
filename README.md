@@ -6,7 +6,7 @@ Works via  python computer vision pipeline that detects objects and hand gesture
 
 ![Dinosaur Snack Detector demo](demo/dino-demo.gif)
 
-When the palm is open, detection is activated. When the palm is closed, the dinosaur knows it is not being fed.
+When the palm is closed, the dinosaur knows it is not being fed. When the palm is open, detection is activated. 
 
 <img src="demo/open-closed-palm.png" width="600">
 
