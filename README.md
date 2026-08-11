@@ -71,3 +71,13 @@ Press **Q** to quit. A 3-second cooldown prevents repeated triggers.
 ```
 
 `turnDegrees` is clamped to ±60° and represents the horizontal offset of the detected object from screen center.
+
+
+
+## 3D Asset Credits
+
+- **Diplodocus** — model by CGreature / kenchoo, via [Sketchfab](https://sketchfab.com/3d-models/diplodocus-157b9b7eaef74f44bf4a5d3b986a5b9c).
+
+- **Triceratops** — rebuilt and animated by kenchoo, based on "Triceratops-JWE" by JW Roberta, via [Sketchfab](https://sketchfab.com/3d-models/triceratop-4425e68c2d8648e79159dc00ddeddf77). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+- **Animated JWR Velociraptor** — animated by Gisduyg, based on a model by jimmyho905, via [Sketchfab](https://sketchfab.com/3d-models/animated-jwr-velociraptor-58f160a58bfc48bb95bcbfa1ece2a0b2). Licensed under Creative Commons Attribution.
