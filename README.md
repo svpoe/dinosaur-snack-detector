@@ -83,4 +83,4 @@ Press **Q** to quit. A 3-second cooldown prevents repeated triggers.
 - **Animated JWR Velociraptor** — animated by Gisduyg, based on a model by jimmyho905, via [Sketchfab](https://sketchfab.com/3d-models/animated-jwr-velociraptor-58f160a58bfc48bb95bcbfa1ece2a0b2). Licensed under Creative Commons Attribution.
 
 ## Note
-  AI Use: Generative AI tools were used to assist with parts of the coding, debugging, troubleshooting, and documentation throughout the project.
+Generative AI tools (chatGPT, copilot) were used to assist with parts of the coding, debugging, troubleshooting, and documentation throughout the project.
