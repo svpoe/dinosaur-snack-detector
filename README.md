@@ -83,7 +83,7 @@ Press **Q** to quit. A 3-second cooldown prevents repeated triggers.
 - **Animated JWR Velociraptor** — animated by Gisduyg, based on a model by jimmyho905, via [Sketchfab](https://sketchfab.com/3d-models/animated-jwr-velociraptor-58f160a58bfc48bb95bcbfa1ece2a0b2). Licensed under Creative Commons Attribution.
 
 - **Palm Tree 3D Model** — “Realistic Palm Tree Free” by Next Spring, licensed under CC Attribution (CC BY).
-- **Fern 3D Model** — “Fern” by zvanstone, licensed under CC BY.
+- *Fern 3D Model** — “Fern” by zvanstone, licensed under CC BY.
 
 ## Note
 Generative AI tools (chatGPT, copilot) were used to assist with parts of the coding, debugging, troubleshooting, and documentation.
